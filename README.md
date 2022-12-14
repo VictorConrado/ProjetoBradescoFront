@@ -1,4 +1,4 @@
-# ProjetoBradescoFront
-Project Bradesco course Front-End
-A project where the background change when u press the button
-This project was made with the intention of being used as Portfolio and non-profit 
+Projeto Bradesco Front-End
+- Projeto utilizando linguagens HTML5, CSS3 e JS
+- O site contem algumas listas e muda sua cor tema entre claro e escuro
+- Este projeto tem o intuito de ser usado como Portfólio e sem fins lucrativos
